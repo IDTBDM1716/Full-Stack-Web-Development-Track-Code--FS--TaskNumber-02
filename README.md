@@ -1,0 +1,2 @@
+# Full-Stack-Web-Development-Track-Code--FS--TaskNumber-02
+ The Employee Management System is a PHP-based web application designed specifically for local companies to efficiently manage employee data, track attendance, handle payroll, and assess performance. With an intuitive interface and secure data management, this system helps businesses streamline operations, reduce administrative tasks, and ensure smooth workforce management. Whether for small or medium-sized businesses, our system offers a scalable solution to meet the unique needs of local companies.
